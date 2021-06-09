@@ -1,7 +1,6 @@
 import * as http from "http";
 import app from "./app";
 
-
 function normalizePort(val: number | string): number | string | boolean {
   const port = typeof val === "string" ? parseInt(val, 10) : val;
   if (isNaN(port)) {

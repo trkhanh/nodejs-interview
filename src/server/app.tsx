@@ -8,7 +8,7 @@ import { RequestListener } from "http";
 
 import router from "./router";
 
-export default function ( mode = "test"): RequestListener {
+export default function (mode = "test"): RequestListener {
   const app = express();
 
   // Apply middleware stack:

@@ -27,7 +27,6 @@ export default function (): Router {
 
   // GET / is an alias for GET /posts
   router.get("/", (req, res) => {
-
     const stream = renderToNodeStream(
       <StaticRouter location={req.url}>
         <App />
@@ -40,8 +39,6 @@ export default function (): Router {
     stream.pipe(res, { end: false });
     stream.on("end", () => res.end("</div></body></html>"));
   });
-
-
 
   // 404 handler
   router.get("*", (req, res) => {
