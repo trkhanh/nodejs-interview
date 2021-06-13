@@ -34,7 +34,8 @@ export default function (): Router {
     );
 
     res.write(
-      `<!DOCTYPE html><html lang="en"><head></head><body><div id="root">`
+      `<!DOCTYPE html><html lang="en"><head>${header(null
+      )}</head><body><div id="root">`
     );
     stream.pipe(res, { end: false });
     stream.on("end", () => res.end("</div></body></html>"));

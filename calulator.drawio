@@ -1,0 +1,13 @@
+<mxfile>
+    <diagram id="lNTLOGMw6bU4-zwoJqsQ" name="Page-1">
+        <mxGraphModel dx="585" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Button&lt;br&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;color: #9cdcfe&quot;&gt;className&lt;/span&gt;&lt;span style=&quot;color: #ffd54f&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #4ec9b0&quot;&gt;string&lt;/span&gt;;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #9cdcfe&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color: #ffd54f&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #4ec9b0&quot;&gt;number&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #ffd54f&quot;&gt;|&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #4ec9b0&quot;&gt;string&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="50" width="240" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
